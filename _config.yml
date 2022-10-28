@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Aisha Urooj"
+description              : &description "Ph.D. Candidate at University of Central Florida"
+url                      : https://aishaurooj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "aurooj/aishaurooj.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a Ph.D. candidate at the Center for Research in Computer Vision (CRCV) at University of Central Florida. More recently, I have been exploring visual reasoning, multimodal learning and grounding for visual question answering. I am being co-advised by Dr. Mubarak Shah and Dr. Niels Lobo.
+Some of my previous research topics include semantic segmentation, weakly/unsupervised representation learning, hand detection and hand-based action recognition."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

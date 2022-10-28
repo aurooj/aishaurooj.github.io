@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Engg. in Computer & Information Systems, NED University of Engineering & Technology, Karachi, Pakistan
-* M.S. in Computer Science, Lahore University of Management Sciences, Lahore, Pakistan
 * Ph.D in Computer Science, University of Central Florida, 2022 (expected)
+* M.S. in Computer Science, Lahore University of Management Sciences, Lahore, Pakistan
+* B.Engg. in Computer & Information Systems, NED University of Engineering & Technology, Karachi, Pakistan
 
 Work experience
 ======

@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Engg. in Computer & Information Systems, NED University of Engineering & Technology, Karachi, Pakistan
+* M.S. in Computer Science, Lahore University of Management Sciences, Lahore, Pakistan
+* Ph.D in Computer Science, University of Central Florida, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Research Intern
+  * MIT-IBM Watson AI Lab
+  * Project Description: multimodal understanding, visual question answering, weakly-supervied VQA grounding in transformers
+  * Mentor: Dr. Hilde Kuehne
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Research Intern
+  * MIT-IBM Watson AI Lab
+  * Project Description: evaluated attention-based VQA methods for grounding, integration of capsules with VQA
+  * Mentor: Dr. Hilde Kuehne
+
+* Spring 2016 - Present: Research Assistant / Teaching Assistant
+  * University of Central Florida
+  * Supervisor: Prof. Mubarak Shah and Prof. Niels Lobo
   
 Skills
 ======
